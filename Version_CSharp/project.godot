@@ -13,6 +13,14 @@ config_version=4
 config/name="Ludo _C_Sharp"
 config/icon="res://icon.png"
 
+[display]
+
+window/size/width=1074
+window/size/height=660
+window/per_pixel_transparency/allowed=true
+window/stretch/mode="viewport"
+window/stretch/aspect="keep"
+
 [gui]
 
 common/drop_mouse_on_gui_input_disabled=true
